@@ -1,0 +1,12 @@
+.bg-background-radient {
+  background-image: radial-gradient(circle closest-corner at 35%,
+  #3747d76D 0%, #131313  100%);
+}
+
+.big-blur{
+  filter: blur(300.567px);
+}
+
+.small-blur{
+  filter: blur(100.567px);
+}
